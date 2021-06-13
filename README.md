@@ -4,6 +4,7 @@
 
 # Requirement
 
+for MacOS
 * Adobe Lightroom Classic
 * DxO PureRAW
 
@@ -11,7 +12,7 @@ Verified with Adobe Lightroom Classic 10.2 + DxO PureRAW 1.1.0.
 
 # Installation
 
-1. Download the plug-in.
+1. Download the plug-in [here](https://github.com/yuru-sha/dxo-pureraw-exporter/archive/refs/tags/v0.0.1.zip).
 2. Unzip the plug-in file. This will reveal the uncompressed plug-in to import.
 
 ![lr_1](https://user-images.githubusercontent.com/10279443/121811263-cf50a500-cc9e-11eb-9d36-38ea755c437c.png)
@@ -52,5 +53,5 @@ Note that any adjustments made in Adobe Lightroom Classic will not be reflected.
 
 # License
 
-"DxO PureRAW Exporter" is under [MIT license](https://en.wikipedia.org/wiki/MIT_License).
+"DxO PureRAW Exporter" is under [MIT license](/LICENSE).
 
