@@ -32,9 +32,10 @@ return {
 	LrExportMenuItems = {
 		title = "Export to DxO PureRAW",
 		file = "ExportMenuItem.lua",
+		enabledWhen = "photosSelected",
 	},
 
 
-	VERSION = { major=0, minor=0, revision=1, build="0" },
+	VERSION = { major=0, minor=0, revision=2, build="0" },
 
 }

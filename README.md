@@ -12,7 +12,7 @@ Verified with Adobe Lightroom Classic 10.2 + DxO PureRAW 1.1.0.
 
 # Installation
 
-1. Download the plug-in [here](https://github.com/yuru-sha/dxo-pureraw-exporter/archive/refs/tags/v0.0.1.zip).
+1. Download the plug-in [here](https://github.com/yuru-sha/dxo-pureraw-exporter/archive/refs/tags/v0.0.2.zip).
 2. Unzip the plug-in file. This will reveal the uncompressed plug-in to import.
 
 ![lr_1](https://user-images.githubusercontent.com/10279443/121811263-cf50a500-cc9e-11eb-9d36-38ea755c437c.png)
